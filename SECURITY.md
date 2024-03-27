@@ -7,4 +7,4 @@ You may be asked to remove this information and if necessary the post may be rem
 
 ## Queries relating to your own JASMIN account
 
-For queries specific to your own JASMIN account, contact the [JASMIN Helpdesk](support@jasmin.ac.uk)
+For queries specific to your own JASMIN account, contact the [JASMIN Helpdesk](mailto:support@jasmin.ac.uk)
